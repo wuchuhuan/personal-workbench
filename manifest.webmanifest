@@ -8,5 +8,5 @@
   "display": "standalone",
   "background_color": "#f6f7ff",
   "theme_color": "#6d5dfc",
-  "icons": [{ "src": "./assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+  "icons": [{ "src": "./app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
 }
