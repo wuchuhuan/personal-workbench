@@ -1,0 +1,12 @@
+{
+  "name": "个人工作台",
+  "short_name": "个人工作台",
+  "description": "个人连接方向、知识与行动的本地工作台",
+  "lang": "zh-CN",
+  "start_url": "./个人工作台.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7ff",
+  "theme_color": "#6d5dfc",
+  "icons": [{ "src": "./assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
